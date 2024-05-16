@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ethan! <br/><a href="https://github.com/ethanSielski1">Cybersecurity Undergrad</a>, <a href="https://www.linkedin.com/in/ethan-sielski-7579b4294">IT Professional</a>
+<h1>Hi, I'm Ethan! <br/><a href="https://github.com/ethanSielski1">Cybersecurity Undergrad</a>, <a href="https://www.linkedin.com/in/ethansielski">IT Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -28,5 +28,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/ethan-sielski-7579b4294
+[linkedin]: https://www.linkedin.com/in/ethansielski
 
